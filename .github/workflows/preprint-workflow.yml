@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest ArXiv preprints workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "PREPRINT-LIST"
-          feed_list: "http://arxiv.org/a/le_k_2.atom2,http://arxiv.org/a/le_k_2.atom"
+          feed_list: "http://arxiv.org/a/le_k_2.atom2"
