@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "PREPRINT"
+          comment_tag_name: "PREPRINT-LIST"
           feed_list: "http://arxiv.org/a/le_k_2.atom2"
