@@ -16,4 +16,5 @@ jobs:
         with:
           comment_tag_name: "PREPRINT-LIST"
           feed_list: "http://arxiv.org/a/le_k_2.atom2"
-          template: "$name $title $summary $id"
+          custom_tags: "author/author, summary/summary"
+          template: "$author $title $summary $id"
