@@ -18,4 +18,4 @@ jobs:
           feed_list: "http://arxiv.org/a/le_k_2.atom2"
           custom_tags: "author/author/, abstract/summary/"
           date_format: "yyyy"
-          template: "<details><summary>$author - <a href=$url>$title ($date)</a></summary><p style=color:navy>  $abstract</p></details>"
+          template: "<details><summary>$author ($date) - <a href=$url>$title</a></summary>  <p>  $abstract</p></details>"
