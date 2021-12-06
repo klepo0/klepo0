@@ -17,4 +17,4 @@ jobs:
           comment_tag_name: "PREPRINT-LIST"
           feed_list: "http://arxiv.org/a/le_k_2.atom2"
           custom_tags: "author/author/, abstract/summary/"
-          template: "<details><summary>$author - <a href=$url>$title</a></summary><p>$abstract</p></details>"
+          template: "<details><summary>$author - <a href=$url>$title</a></summary><p style='background-color:#eeeeee'>  $abstract</p></details>"
