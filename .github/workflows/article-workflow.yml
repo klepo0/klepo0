@@ -15,6 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "ARTICLE-LIST"
-          feed_list: "https://www.zbmath.org/?q=ai%3Ale.khoa"
+          feed_list: "https://zbmath.org/atom/ai/le.khoa"
           custom_tags: "author/author/, abstract/summary/"
           date_format: "yyyy"
