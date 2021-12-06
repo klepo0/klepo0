@@ -2,6 +2,7 @@
 
 
 # Recent preprints:
+<ul>
 <!-- PREPRINT-LIST:START -->
 - [Taming singular stochastic differential equations: A numerical method](http://arxiv.org/abs/2110.01343v4)
 - [Rough stochastic differential equations](http://arxiv.org/abs/2106.10340v1)
@@ -12,3 +13,4 @@
 - [Joint H\&quot;older continuity of parabolic Anderson model](http://arxiv.org/abs/1809.10096v1)
 - [Asymptotics of the density of parabolic Anderson random fields](http://arxiv.org/abs/1801.03386v1)
 <!-- PREPRINT-LIST:END -->
+</ul>
