@@ -1,8 +1,4 @@
-<head>
-<title>MathJax TeX Test Page</title>
-<script type="text/javascript" src="/MathJax/MathJax.js"></script>
-</head>
-# KhoaLe
+# Khoa Lê
 
 
 # Recent preprints:
