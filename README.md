@@ -2,7 +2,7 @@
 
 
 # Recent preprints:
-<!-- PREPRINT-LIST:START --><details><summary>Peter K. Friz, Khoa Le, Huilin Zhang (2025) - <a href=http://arxiv.org/abs/2503.06622v1>Randomisation of rough stochastic differential equations</a></summary>  <p>  Rough stochastic differential equations &lpar;RSDEs&rpar; are common generalisations
+<!-- PREPRINT-LIST:START --><details><summary>Peter K. Friz, Khoa Le, Huilin Zhang (2025) - <a href=http://arxiv.org/abs/2503.06622v2>Randomisation of rough stochastic differential equations</a></summary>  <p>  Rough stochastic differential equations &lpar;RSDEs&rpar; are common generalisations
   of Ito SDEs and Lyons RDEs and have emerged as new tool in several areas
   of applied probability, including non-linear stochastic filtering, pathwise
   stochastic optimal control, volatility modelling in finance and mean-fields
