@@ -8,9 +8,16 @@ My research is in stochastic analysis, in particular:
 - equations driven by fractional Brownian motion,
 - the stochastic sewing lemma and related tools.
 
-I am also the developer of [TeXglass](https://github.com/klepo0/TeXglass).
-
 **Links:** [My staff page at the University of Leeds](https://eps.leeds.ac.uk/faculty-engineering-physical-sciences/staff/12207/khoa-l) · [My papers on arXiv](https://arxiv.org/a/le_k_2)
+
+## TeXglass
+
+I develop [TeXglass](https://github.com/klepo0/TeXglass): read LaTeX like a paper, not like code.
+It is for mathematicians and scientists reading arXiv papers or writing LaTeX, with no TeX install and no compile step.
+
+- **Math that reflows.** Papers read like the published version, in light or dark, at any width, with every `\ref` a link you can hover.
+- **See how a paper fits together.** A map of which lemma each theorem uses, "What does this use?" on any result, and a checklist of the hypotheses of each cited lemma.
+- **Read anywhere.** Works on phones and tablets and offline; highlights and notes sync through your own GitHub gist, with no TeXglass server.
 
 ## Recent preprints
 
